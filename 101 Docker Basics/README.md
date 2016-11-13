@@ -46,7 +46,7 @@ lets run an Ubuntu server
 you are now inside the container 
 
 # To quit the container without exiting the main process use 
-# *  CTRL q + p 
+# *  CTRL p + q 
 
 <br>
 
